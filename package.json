@@ -14,9 +14,12 @@
     "@types/react-dom": "18.2.1",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.2",
+    "langchain": "^0.0.66",
     "next": "13.3.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "5.0.4"
+    "swr": "^2.1.5",
+    "typescript": "5.0.4",
+    "uuid": "^9.0.0"
   }
 }

@@ -1,0 +1,9 @@
+.container{
+  flex: 5;
+  overflow: scroll;
+  background-color: #353640;
+  display: flex;
+  padding: 5px;
+  justify-content: center;
+  align-items: end;
+}
